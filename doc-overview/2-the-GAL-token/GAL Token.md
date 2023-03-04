@@ -10,7 +10,7 @@ sidebar_position: 1
 
 > BEP20 Token Address: **0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5**
 
-Galxe aims to build a permissionless, open, and collaborative credential data network. The GAL token is an essential component to such infrastructures as it functions as the governance token, incentivizes user participation, and serves as the primary payment token of the Galxe ecosystem. Here are the utilities of GAL:
+Galxe aims to build a permissionless, open, and collaborative credential data network. The GAL token is an essential component to such infrastructures as it functions as the governance token, incentivizes user participation, and serves as the primary payment token of the Galxe ecosystem. Here are the utility of GAL:
 
 - **Governance:** GAL is used for voting & governance in Galxe DAO. GAL token holders have the ability to control the amount of the platform fee collected by the protocol, and control funds held by the Galxe Community Treasury.
 - **Paying for Application Module Fee:** Developers who aim to utilize Galxe’s credential data through Application Modules will be subject to a Platform Fee which is charged in GAL. The Platform Fee is set up such that every interaction with the Galxe Protocol will incur a fee in GAL. Most of the fee will go to the curators, and Galxe Community Treasury will collect the rest. Currently all Application Modules fees are waived during beta testing.
